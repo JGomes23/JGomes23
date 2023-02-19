@@ -2,7 +2,7 @@
 
 - 🌱 Estudando ferramentas Front-End.
 - 📫 Contate-me no email: Julianogomes23@hotmail.com
-- 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/JGomes23">
