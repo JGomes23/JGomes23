@@ -1,7 +1,3 @@
- Olá! Eu sou o Juliano Gomes
-
-- 🌱 Estudando ferramentas Front-End.
-- 📫 Contate-me no email: Julianogomes23@hotmail.com
 
 
 <div align="center">
